@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=”center”>
+![Banner](https://github.com/your-username/your-repo-name/blob/main/image-name.png?raw=true)
 
-<img width=”200" height=”200" src=”https://github.com/mayajairam/mayajairam/blob/main/Make%20your%20README.png" alt=”my banner”>
-
-</p>
 
 <h1 align="center">Hi 👋, I'm Maya 👩🏽‍💻🏝️</h1>
 <h3 align="center">A passionate software engineer from Queens, New York</h3>
