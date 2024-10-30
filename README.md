@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://github.com/mayajairam/mayajairam/blob/main/Make%20your%20README.png?raw=true" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/mayajairam/mayajairam/blob/main/Make%20your%20README.png" alt=”my banner”>
 
 </p>
 
