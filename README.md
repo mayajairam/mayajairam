@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”" alt=”my banner”>
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Maya 👩🏽‍💻🏝️</h1>
 <h3 align="center">A passionate software engineer from Queens, New York</h3>
 
