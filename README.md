@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](https://github.com/your-username/your-repo-name/blob/main/image-name.png?raw=true)
+![Banner](https://raw.githubusercontent.com/mayajairam/mayajairam/refs/heads/main/Make%20your%20README.png)
 
 
 <h1 align="center">Hi 👋, I'm Maya 👩🏽‍💻🏝️</h1>
